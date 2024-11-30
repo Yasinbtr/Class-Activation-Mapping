@@ -8,7 +8,7 @@ from pytorch_grad_cam import EigenCAM
 from pytorch_grad_cam.utils.image import show_cam_on_image
 
 # Windows uyumluluğu için Path ayarı
-pathlib.PosixPath = pathlib.WindowsPath
+#pathlib.PosixPath = pathlib.WindowsPath
 
 # Sabit değerler
 CONFIDENCE_THRESHOLD = 0.05
