@@ -1,2 +1,1 @@
-# Class-Activation-Mapping
-Grad-CAM and Eigen-CAM
+Bu repo derin öğrenme ile hedef tespitinin XAI yöntemlerinden Grad-CAM ve Eigen-CAM ile yorumlanmasını içermektedir.
