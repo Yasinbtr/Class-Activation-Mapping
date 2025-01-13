@@ -1,1 +1,1 @@
-Bu repo derin öğrenme ile hedef tespitinin XAI yöntemlerinden Grad-CAM ve Eigen-CAM ile yorumlanmasını içermektedir.
+Bu repo derin öğrenme ile hedef tespitinin XAI yöntemlerinden Grad-CAM, Eigen-CAM ve Score-CAM ile yorumlanmasını içermektedir.
